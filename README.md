@@ -1,4 +1,4 @@
 ![466](466.png)
 
 
-ödevi raylib kütüphanesinden yararlanarak c dilinde impplement etmeyi denedim
+bi delilik yapıp ödevi raylib kütüphanesinden yararlanarak c dilinde implement etmeyi denedim :D
